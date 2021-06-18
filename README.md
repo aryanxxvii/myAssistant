@@ -6,4 +6,4 @@
 4. Type "help" for general help.
 5. Type "help (activity name)" for specific help.
 
-# B R U H
+
